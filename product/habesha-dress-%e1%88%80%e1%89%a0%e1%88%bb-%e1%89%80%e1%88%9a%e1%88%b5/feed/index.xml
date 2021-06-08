@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Habesha Dress&#124; ሀበሻ ቀሚስ	</title>
+	<atom:link href="http://localhost/wordpress/product/habesha-dress-%E1%88%80%E1%89%A0%E1%88%BB-%E1%89%80%E1%88%9A%E1%88%B5/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8080/wordpress/product/habesha-dress-%e1%88%80%e1%89%a0%e1%88%bb-%e1%89%80%e1%88%9a%e1%88%b5/</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 08 Jun 2021 13:22:56 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.5</generator>
+</channel>
+</rss>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; my ecommerce</title>
+	<atom:link href="http://localhost/wordpress/store/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8080/wordpress</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Tue, 08 Jun 2021 14:36:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.5</generator>
+	<item>
+		<title>Mens Cultural Cloth</title>
+		<link>http://localhost:8080/wordpress/product/mens-cultural-cloth/</link>
+					<comments>http://localhost:8080/wordpress/product/mens-cultural-cloth/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 08 Jun 2021 14:36:05 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=product&#038;p=2592</guid>
+
+					<description><![CDATA[Mens cultural cloth]]></description>
+										<content:encoded><![CDATA[<p>Mens cultural cloth</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost:8080/wordpress/product/mens-cultural-cloth/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ethiopian mens cloth</title>
+		<link>http://localhost:8080/wordpress/product/ethiopian-mens-cloth/</link>
+					<comments>http://localhost:8080/wordpress/product/ethiopian-mens-cloth/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 08 Jun 2021 14:34:40 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=product&#038;p=2589</guid>
+
+					<description><![CDATA[Ethiopian mens cloth with best price]]></description>
+										<content:encoded><![CDATA[<p>Ethiopian mens cloth with best price</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost:8080/wordpress/product/ethiopian-mens-cloth/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Habesha Bag</title>
+		<link>http://localhost:8080/wordpress/product/http-localhost8080-wordpr4162evzjeul-_ac_ul600_sr600600_-jpg/</link>
+					<comments>http://localhost:8080/wordpress/product/http-localhost8080-wordpr4162evzjeul-_ac_ul600_sr600600_-jpg/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 08 Jun 2021 13:06:32 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=product&#038;p=2518</guid>
+
+					<description><![CDATA[This is habesha bag]]></description>
+										<content:encoded><![CDATA[<p>This is habesha bag</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost:8080/wordpress/product/http-localhost8080-wordpr4162evzjeul-_ac_ul600_sr600600_-jpg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Habesha Dress&#124; ሀበሻ ቀሚስ</title>
+		<link>http://localhost:8080/wordpress/product/habesha-dress-%e1%88%80%e1%89%a0%e1%88%bb-%e1%89%80%e1%88%9a%e1%88%b5/</link>
+					<comments>http://localhost:8080/wordpress/product/habesha-dress-%e1%88%80%e1%89%a0%e1%88%bb-%e1%89%80%e1%88%9a%e1%88%b5/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 08 Jun 2021 13:05:07 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=product&#038;p=2515</guid>
+
+					<description><![CDATA[This is Ethiopian womens cultural Dress]]></description>
+										<content:encoded><![CDATA[<p>This is Ethiopian womens cultural Dress</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost:8080/wordpress/product/habesha-dress-%e1%88%80%e1%89%a0%e1%88%bb-%e1%89%80%e1%88%9a%e1%88%b5/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Anchor Bracelet</title>
+		<link>http://localhost:8080/wordpress/product/anchor-bracelet/</link>
+					<comments>http://localhost:8080/wordpress/product/anchor-bracelet/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 19 Dec 2017 05:32:20 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost:8080/wordpress/product/anchor-bracelet/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed.]]></description>
+										<content:encoded><![CDATA[<p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost:8080/wordpress/product/anchor-bracelet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Buddha Bracelet</title>
+		<link>http://localhost:8080/wordpress/product/buddha-bracelet/</link>
+					<comments>http://localhost:8080/wordpress/product/buddha-bracelet/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 18 Dec 2017 12:20:11 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost:8080/wordpress/product/buddha-bracelet/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed .]]></description>
+										<content:encoded><![CDATA[<p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed .</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost:8080/wordpress/product/buddha-bracelet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Light Brown Purse</title>
+		<link>http://localhost:8080/wordpress/product/light-brown-purse/</link>
+					<comments>http://localhost:8080/wordpress/product/light-brown-purse/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 18 Dec 2017 07:39:51 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost:8080/wordpress/product/light-brown-purse/</guid>
+
+					<description><![CDATA[Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.]]></description>
+										<content:encoded><![CDATA[<p>Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://localhost:8080/wordpress/product/light-brown-purse/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
